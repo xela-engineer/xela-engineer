@@ -12,7 +12,7 @@ Hi, I am Alex. I am a Cloud Engineer and I am also interested in DevSecOps/SRE. 
 ## 🔭 Goals of 2020
 
 - 📫 How to reach me ...
-
+---
 ## My Skills:
 
 - Cloud and Microservices - Kubernetes, Openshift, Docker, Docker Compose, JFrog
