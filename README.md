@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @alexshinningsun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+Hi, I am Alex. I am a Cloud Engineer and I am also interested in DevSecOps/SRE. DevOps engineering just like a bridge architect who build a safe, secure and fascinating linker between important components. 🌱 I’m currently learning DevOps tools. E.G. Ansible. 💞️I’m looking to collaborate on any kind of company. 
+
+## 👀 My values
+
+- Passion
+
+- Thinking in Multiple Perspectives
+
+- Willingness to Learn
+---
+
 - 📫 How to reach me ...
 
 <!---
