@@ -9,13 +9,13 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 
 - Willingness to Learn
 ---
-## 🔭 Goals of 2022
+## :dart: Goals of 2022
 
 - Learn how to improve safety :ambulance: and minimize vulnerabilities through DevOps.
 - Learn how to enhance efficiency and speed :rocket: of DevOps release cycles :hourglass:.
 - Learn how to lessen human error risk :zombie: and increase visibility :telescope:.
 ---
-## My Skills
+## :dvd: My Skills
 
 - Cloud and Microservices - Kubernetes, Openshift, Docker, Docker Compose, JFrog
 - Automation, CI/CD - Ansible, Jenkins, OpsWorks Stack, Terraform
