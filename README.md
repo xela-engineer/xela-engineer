@@ -26,8 +26,8 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 - Hardware - Arduino, Raspberry pi, Sensors
 ---
 ## 💡 Projects
-- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
-- [Hangman](https://ms314006.github.io/hangman/dist/)
+- [Cloud computing project's setup by Terraform](https://github.com/alexshinningsun/cloud-computing-project)
+- [Chef Cookbook for Cloud computing and big data course](https://github.com/alexshinningsun/bigdata_course_cookbook)
 ---
 ## 🔗 Get in touch
   Linkedin: https://www.linkedin.com/in/alex-woo-7049801a3/
