@@ -16,7 +16,6 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 - Learn how to lessen human error risk :zombie: and increase visibility :telescope:.
 ---
 ## :dvd: My Skills
-
 - Cloud and Microservices - Kubernetes, Openshift, Docker, Docker Compose, JFrog
 - Automation, CI/CD - Ansible, Jenkins, OpsWorks Stack, Terraform
 - System Administration - Linux, Elasticsearch(ELK), Sysdig
@@ -29,9 +28,9 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 ## 💡 Projects
 - [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
 - [Hangman](https://ms314006.github.io/hangman/dist/)
-
+---
 ## 🔗 Get in touch
-  linkedin: https://www.linkedin.com/in/alex-woo-7049801a3/
+  Linkedin: https://www.linkedin.com/in/alex-woo-7049801a3/
 <!---
 alexshinningsun/alexshinningsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
