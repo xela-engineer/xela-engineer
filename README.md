@@ -11,9 +11,9 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 ---
 ## 🔭 Goals of 2022
 
-- Learn how to improve safety and minimize vulnerabilities through DevOps.
-- Learn how to enhance efficiency and speed of DevOps release cycles.
-- Learn how to lessen human error risk and increase visibility.
+- Learn how to improve safety :ambulance: and minimize vulnerabilities through DevOps.
+- Learn how to enhance efficiency and speed :rocket: of DevOps release cycles :hourglass:.
+- Learn how to lessen human error risk :zombie: and increase visibility :telescope:.
 ---
 ## My Skills
 
