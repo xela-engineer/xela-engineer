@@ -1,5 +1,5 @@
 
-Hi, I am Alex. I am a Cloud Engineer and I am also interested in DevSecOps/SRE. DevOps engineering just like a bridge architect who build a safe, secure and fascinating linker between important components. 🌱 I’m currently learning DevOps tools. E.G. Ansible. 💞️I’m looking to collaborate on any kind of company in Hong Kong. 
+Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested in DevSecOps/SRE. DevOps engineering just like a bridge architect :construction_worker: who build safe, secure and fascinating linkers between important components. 🌱 I’m currently learning DevOps tools. E.G. Ansible. 💞️I’m looking to collaborate on any kind of company in Hong Kong. 
 
 ## 👀 My Personalities
 
@@ -9,11 +9,13 @@ Hi, I am Alex. I am a Cloud Engineer and I am also interested in DevSecOps/SRE. 
 
 - Willingness to Learn
 ---
-## 🔭 Goals of 2020
+## 🔭 Goals of 2022
 
-- 📫 How to reach me ...
+- Learn how to improve safety and minimize vulnerabilities through DevOps.
+- Learn how to enhance efficiency and speed of DevOps release cycles.
+- Learn how to lessen human error risk and increase visibility.
 ---
-## My Skills:
+## My Skills
 
 - Cloud and Microservices - Kubernetes, Openshift, Docker, Docker Compose, JFrog
 
