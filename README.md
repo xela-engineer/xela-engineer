@@ -1,6 +1,10 @@
 
 Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested in DevSecOps/SRE. DevOps engineering just like a bridge architect :construction_worker: who build safe, secure and fascinating linkers between important components. 🌱 I’m currently learning DevOps tools. E.G. Ansible. 💞️I’m looking to collaborate on any kind of company in Hong Kong. 
 
+<p>
+  <a><img width="400" align='right' src="https://github.com/alexshinningsun/alexshinningsun/blob/main/devops-cycle.gif"></a>
+</p>
+
 ## 👀 My Personalities
 
 - Passion
