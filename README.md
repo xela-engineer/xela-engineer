@@ -35,6 +35,7 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 - [CTF hacking questions](https://github.com/alexshinningsun/hacking-accessment)
 - [Faces Classification](https://github.com/alexshinningsun/Face-classification)
 - [FYP CI/CD](https://github.com/alexshinningsun/fyp-cicd)
+- [JUnit test](https://github.com/alexshinningsun/JUnit)
 ---
 ## 🔗 Get in touch
   Linkedin: https://www.linkedin.com/in/alex-woo-7049801a3/
