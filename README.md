@@ -20,13 +20,14 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 - Learn how to lessen human error risk :zombie: and increase visibility :telescope:.
 ---
 ## :dvd: My Skills
-- Cloud and Microservices - Kubernetes, Openshift, Docker, Docker Compose, JFrog
-- Automation, CI/CD - Ansible, Jenkins, OpsWorks Stack, Terraform
-- System Administration - Linux, Elasticsearch(ELK), Sysdig
-- Development Tools - Postman, Jmeter, Docker
+- Cloud - AWS, GCP, Azure
+- Cloud and Microservices - Docker, Kubernetes, OpenShift, AKS, EKS, GKE, Docker Compose, JFrog
+- Automation, CI/CD - Ansible, Jenkins, Github Actions, OpsWorks Stack, Terraform, Github Actions
+- System Administration - Linux, Elasticsearch(ELK), Sysdig, Orcale db
+- Development Tools - Postman, JMeter, JUnit, Docker
 - Big Data - Hadoop, Spark, Databricks
 - Networking - Nginx, Kafka, REST API
-- Programming - Python, C, C++, Java, HTML, Bash, Arduino
+- Programming -  GO, Python, C, C++, Java, HTML, XML, SQL, Bash, Arduino  
 - Hardware - Arduino, Raspberry pi, Sensors
 ---
 ## 💡 Projects
