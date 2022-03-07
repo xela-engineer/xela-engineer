@@ -32,10 +32,10 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 ---
 ## 💡 Projects
 - [Cloud computing project's setup by Terraform](https://github.com/alexshinningsun/cloud-computing-project)
-- [Chef Cookbook for Cloud computing and big data course](https://github.com/alexshinningsun/bigdata_course_cookbook)
+- [Chef Cookbook for Cloud computing and big data course (through AWS OpsWorks)](https://github.com/alexshinningsun/bigdata_course_cookbook)
 - [CTF hacking questions](https://github.com/alexshinningsun/hacking-accessment)
-- [Faces Classification](https://github.com/alexshinningsun/Face-classification)
-- [FYP CI/CD](https://github.com/alexshinningsun/fyp-cicd)
+- [Faces Classification by Python](https://github.com/alexshinningsun/Face-classification)
+- [FYP CI/CD by Ansible](https://github.com/alexshinningsun/fyp-cicd)
 - [JUnit test](https://github.com/alexshinningsun/JUnit)
 ---
 ## 🔗 Get in touch
