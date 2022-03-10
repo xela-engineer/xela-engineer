@@ -30,14 +30,13 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 - Programming -  GO, Python, C, C++, Java, HTML, XML, SQL, Bash, Arduino  
 - Hardware - Arduino, Raspberry pi, Sensors
 ---
-## 💡 Projects
+## 💡 Projects  (More details of my projects ==> [PORTFOLIO OF MY SCHOOL WORKS](https://alex23woo.wixsite.com/website) )
 - [Cloud computing project's setup by Terraform](https://github.com/alexshinningsun/cloud-computing-project)
 - [Chef Cookbook for Cloud computing and big data course (through AWS OpsWorks)](https://github.com/alexshinningsun/bigdata_course_cookbook)
 - [CTF hacking questions](https://github.com/alexshinningsun/hacking-accessment)
 - [Faces Classification by Python](https://github.com/alexshinningsun/Face-classification)
 - [FYP CI/CD by Ansible](https://github.com/alexshinningsun/fyp-cicd)
 - [JUnit test](https://github.com/alexshinningsun/JUnit)
-  More details of my projects ==> [PORTFOLIO OF MY SCHOOL WORKS](https://alex23woo.wixsite.com/website)
   
 ---
 ## 🔗 Get in touch
