@@ -37,8 +37,8 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 - [Faces Classification by Python](https://github.com/alexshinningsun/Face-classification)
 - [FYP CI/CD by Ansible](https://github.com/alexshinningsun/fyp-cicd)
 - [JUnit test](https://github.com/alexshinningsun/JUnit)
-
-  More information of my projects ==> [PORTFOLIO OF MY SCHOOL WORKS](https://alex23woo.wixsite.com/website)
+  More details of my projects ==> [PORTFOLIO OF MY SCHOOL WORKS](https://alex23woo.wixsite.com/website)
+  
 ---
 ## 🔗 Get in touch
   Linkedin: https://www.linkedin.com/in/alex-woo-7049801a3/
