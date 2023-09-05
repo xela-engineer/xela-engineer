@@ -21,14 +21,37 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 ---
 ## :dvd: My Skills
 - Cloud - AWS, GCP, Azure
-- Cloud and Microservices - Docker, Kubernetes, OpenShift, AKS, EKS, GKE, Docker Compose, JFrog
-- Automation, CI/CD - Ansible, Jenkins, Github Actions, OpsWorks Stack, Terraform, Github Actions
-- System Administration - Linux, Elasticsearch(ELK), Sysdig, Orcale db
-- Development Tools - Postman, JMeter, JUnit, Docker
+  
+- Microservices - Docker, Kubernetes, OpenShift, AKS, EKS, GKE, Docker Compose, Minio
+
+- K8S / Container Security - Sysdig, Prisma Cloud, AIDE, Micro Focus Fortify
+  
+- K8S Backup -
+
+- Event Streaming - Kafka, NiFi, MiNiFi
+  
+- Service Mesh - Istio
+  
+- IaC - Ansible, OpsWorks Stack, Terraform, AWS CDK
+  
+- CI/CD - Git, GitLab, Github Actions, CircleCI, Jenkins, JFrog, Harbor, ArgoCD
+  
+- Monitoring - Prometheus, Exporters, Elasticsearch, Elastic APM, Elastiflow, Grafana, AWS Cloudwatch, Loki
+  
+- System Administration - Linux Redhat, Ubuntu
+
+- DB/Storage - Orcale DB, MongoDB, Minio
+  
+- Development Tools - Postman, JMeter, JUnit, K6, Docker
+  
 - Big Data - Hadoop, Spark, Databricks
-- Networking - Nginx, Kafka, REST API
-- Programming -  GO, Python, C, C++, Java, HTML, XML, SQL, Bash, Arduino  
+  
+- Networking - Nginx, REST API, Kong
+  
+- Programming - Intermediate level : [GO, Python, C, C++, Java, JavaScript, TypeScript, XML, SQL, HTML, Bash], Elementary level : [Android, Arduino]
+  
 - Hardware - Arduino, Raspberry pi, Sensors
+  
 ---
 ## 💡 Projects  (More details of my projects ==> [PORTFOLIO OF MY SCHOOL WORKS](https://alex23woo.wixsite.com/website) )
 - [Cloud computing project's setup by Terraform](https://github.com/alexshinningsun/cloud-computing-project)
