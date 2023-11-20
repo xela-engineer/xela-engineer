@@ -15,9 +15,9 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 ---
 ## :dart: Goals of 2023
 
-- Learn how to implement DevSecOps into development eco-system.
-- Learn how to enhance network monitoring in Kubernetes.
-- Learn how to Automate Day-2 operations with Ansible in real business case.
+- Learn how to implement DevSecOps 🛡️ into development eco-system.
+- Learn how to enhance network monitoring 🕵🏻‍♀️ in Kubernetes.
+- Learn how to automate 🤖 Day-2 operations with Ansible in real business case.
 - Learn how to inplement and develop API and Data solutions (Kafka)
 ---
 ## :dart: Goals of 2022
