@@ -62,7 +62,7 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 ---
 ## 💡 Projects  (More details of my projects ==> [PORTFOLIO OF MY SCHOOL WORKS](https://alex23woo.wixsite.com/website) )
 - [Kubernetes Security Hardening: Keep Tracking on Kubernetes SCC](https://github.com/xela-engineer/k8s-scc-tracking)
-- [Practicing GitOps with ArgoCD](https://github.com/xela-engineer/k8s-gitops-practice/tree/main)
+- [Practicing GitOps with ArgoCD and Terraform](https://github.com/xela-engineer/k8s-gitops-practice/tree/main)
 - [Cloud computing project's setup by Terraform](https://github.com/alexshinningsun/cloud-computing-project)
 - [Chef Cookbook for Cloud computing and big data course (through AWS OpsWorks)](https://github.com/alexshinningsun/bigdata_course_cookbook)
 - [CTF hacking questions](https://github.com/alexshinningsun/hacking-accessment)
