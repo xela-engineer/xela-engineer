@@ -13,6 +13,12 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 
 - Willingness to Learn
 ---
+## :dart: Goals of 2024
+
+- Azure and Terraform
+- TBC
+- TBC
+---
 ## :dart: Goals of 2023
 
 - Learn how to implement DevSecOps 🛡️ into development eco-system.
