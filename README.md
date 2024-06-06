@@ -15,9 +15,9 @@ Hi, I am Alex :man_technologist:. I am a Cloud Engineer and I am also interested
 ---
 ## :dart: Goals of 2024
 
-- Learn how to use Istio in a Large scale of business.
-- Learn how to write Node.js to provide full automation services on cloud native day-2 operations.
-- Learn how to apply Terraform on Azure
+- Learn how to maintain Istio in a Large scale of business.
+- Learn how to provide full automation services on cloud native day-2 operations with Node.js and Typescript.
+- Learn how to apply Terraform on Azure.
 ---
 ## :dart: Goals of 2023
 
